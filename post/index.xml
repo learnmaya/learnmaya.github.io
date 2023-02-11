@@ -13,7 +13,8 @@
       <pubDate>Sat, 11 Feb 2023 22:11:51 +0100</pubDate>
       
       <guid>http://example.org/post/hello-world/</guid>
-      <description>My first Post</description>
+      <description>My first Post
+public static testing() { for (int i = 0; i &amp;lt; 10: i++) { System.out.println(&amp;#34;LOVE YOU&amp;#34;) } } </description>
     </item>
     
   </channel>
